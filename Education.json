@@ -1,0 +1,23 @@
+[
+  {
+    "Title": "Dalubhasaan ng Lungsod ng Lucena",
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/educ/dll.jpg",
+    "Description": "<p>Since 2024</p><p>Bachelor of Science in Information Technology</p>",
+    "ImageHref": "https://dll.edu.ph/",
+    "RoundedImage": true
+  },
+  {
+    "Title": "Southern Luzon State University Lucena",
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/educ/slsulucena.png",
+    "Description": "<p>2023 - 2024</p><p>Bachelor in Industrial Technology</p>",
+    "ImageHref": "https://www.slsu.edu.ph/slsu-lucena/",
+    "RoundedImage": true
+  },
+  {
+    "Title": "Ark Technological Institute Educational System Incorporated",
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/educ/ark.png",
+    "Description": "<p>2021 - 2023</p><p>Information Communication Technology</p>",
+    "ImageHref": "https://www.facebook.com/@ARKLucena/",
+    "RoundedImage": true
+  }
+]

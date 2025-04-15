@@ -1,0 +1,94 @@
+[
+  {
+    "Date": "2019",
+    "Description": "This year marked the beginning of my programming journey as a Grade 9 student. The first programming languages I learned were C for Arduino and ActionScript 2.0 for Flash 8 (which is now obsolete). My first Flash project was an animation using keyframes, and my first Arduino project was a simple LED flickering with a fixed time interval."
+  },
+  {
+    "Date": "2020",
+    "Description": "In 2020, I began diving deeper into C and C++ using Turbo C, expanding my knowledge of Arduino, and exploring game development with Flash 8. I focused on Flash 8 ActionScript 2.0 for game development, creating a few amateur and experimental games."
+  },
+  {
+    "Date": "2021",
+    "Description": "During Grade 11 at ARK, I worked on a few Arduino projects. We had a programming subject where we used VB.Net. Although I didn’t enjoy VB.Net, I studied it to pass the subject. This year also marked my first exposure to HTML, CSS, and JavaScript. In my free time, I explored the DOM, scripting, client-side and server-side interactions, and complex JavaScript logic."
+  },
+  {
+    "Date": "2022",
+    "Description": "In Grade 12 at ARK, we transitioned from online classes to face-to-face learning. I took another programming course, but this time focused on Java (which is very different from JavaScript). This shift caused me to temporarily lose focus on HTML, CSS, and JavaScript, slowing my progress in web development."
+  },
+  {
+    "Date": "Early 2023",
+    "Description": "By early 2023, I returned to web development, focusing on HTML, CSS, and JavaScript, and started building a few vanilla websites."
+  },
+  {
+    "Date": "May 3, 2023",
+    "Description": "I published my first website as part of a work immersion project during senior high school. You can find the project and its code <a href=https://github.com/elevencrushtips target=_blank>here</a> on my separate GitHub account, titled 'Eleven Crush Tips'."
+  },
+  {
+    "Date": "May - June 2023",
+    "Description": "During this period, I shifted my focus from web development to game development. I explored Unity 2D and moved away from Flash 8, which was no longer a viable option for game development."
+  },
+  {
+    "Date": "July 3, 2023",
+    "Description": "I published my first game, <a href=https://play.google.com/store/apps/details?id=com.khianvictory.blueball2d target=_blank>Blue Ball 2D</a>, on the Google Play Store. It's a simple game similar to Flappy Bird, but with a vertical direction. This period marked the start of my exploration into both game and web development. <br/><b>Note: Due to inactivity in my Google Developer account, both my account and games were at risk of being removed.</b>"
+  },
+  {
+    "Date": "August 23, 2023",
+    "Description": "I published my second game, <a href=https://play.google.com/store/apps/details?id=com.khianvictory.clinx&hl=en target=_blank>Clinx</a>, which involved clicking a circle that appeared in the center of the screen before it disappeared. I was unsure if other games used this mechanic, so I thought I was the first to implement it. <br/><b>Note: Due to inactivity in my Google Developer account, both my account and games were at risk of being removed.</b>"
+  },
+  {
+    "Date": "September 4, 2023",
+    "Description": "On my first day at SLSU Lucena in the Industrial Technology program, I realized that my true interest lies in software development, particularly web and game development, not hardware. My prior experience with Arduino helped me realize that hardware development was expensive and complex compared to software development. I completed my first semester but chose not to continue in the program."
+  },
+  {
+    "Date": "Late 2023",
+    "Description": "After exploring various fields, including Arduino, Flash 8, Unity, and game development, I realized that web development was the most enjoyable for me. Game development, although exciting, was time-consuming and limited by my laptop's specs. In contrast, web development was fast, lightweight, and more accessible with no SDKs, complex installations, or platform restrictions. Thus, I decided to focus on mastering web development."
+  },
+  {
+    "Date": "January 19, 2024",
+    "Description": "I officially completed my first semester at SLSU but chose not to enroll for the second semester."
+  },
+  {
+    "Date": "January 20, 2024 - March 2024",
+    "Description": "During this period, I redirected my focus to studying for the EPS-TOPIK (a Korean examination that could lead to work opportunities in South Korea). I studied the Korean language whenever I had free time, which left little time for web development."
+  },
+  {
+    "Date": "March 25, 2024",
+    "Description": "I took the EPS-TOPIK exam in Ortigas, Manila. I scored 95/200, falling short of the passing score of 110. With this result, I decided to return to school."
+  },
+  {
+    "Date": "April 25, 2024",
+    "Description": "I took the entrance exam for DLL College, passed, and got accepted a few months later. I repeated my first year of college and enrolled in the course I truly wanted: Information Technology."
+  },
+  {
+    "Date": "May 2024",
+    "Description": "I began studying the basics of back-end systems, specifically PHP and MySQL, and their integration. I read PDFs that were 60 to 200 pages long to deepen my understanding."
+  },
+  {
+    "Date": "July 2024",
+    "Description": "My curiosity led me to explore full-stack web development, so I began learning frameworks and libraries, focusing on React."
+  },
+  {
+    "Date": "August 5, 2024",
+    "Description": "On my first day at DLL College, I started connecting with professors, peers, and programming communities to further my skills."
+  },
+  {
+    "Date": "September - December 2024",
+    "Description": "I began working on React projects with the goal of adding them to my portfolio. These projects became a key part of my learning and development."
+  },
+  {
+    "Date": "December 2024",
+    "Description": "I became more active on GitHub, understanding the platform's importance for collaboration and showcasing my work as I prepare for post-graduation opportunities."
+  },
+  {
+    "Date": "Late December 2024",
+    "Description": "I created tutorial lesson projects for my side hustle, 'Programming Tutor'. Though I only had one client (a classmate), the experience was valuable for learning how to teach programming."
+  },
+  {
+    "Date": "January 2025 - April 2025",
+    "Description": "I began working on projects that were more polished and professional in preparation for freelancing in web development, guided by my professors and peers."
+  },
+  {
+    "Date": "April 15, 2025",
+    "Description": "I officially embarked on a new chapter in my journey: Web Development Freelancing."
+  }
+]

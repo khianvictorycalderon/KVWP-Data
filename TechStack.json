@@ -1,0 +1,62 @@
+[
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/react.png",
+    "Title": "React",
+    "Description": "I use React to build dynamic and interactive user interfaces with JavaScript XML and TypeScript."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/bootstrap.png",
+    "Title": "Bootstrap",
+    "Description": "I use Bootstrap to quickly design responsive and mobile-first websites."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/firebase.png",
+    "Title": "Firebase",
+    "Description": "I use Firebase to manage databases on the front-end and provide real-time synchronization without needing a back-end."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/google-analytics.png",
+    "Title": "Google Analytics",
+    "Description": "I use Google Analytics to monitor website performance by tracking user visits, actions, and events."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/php.png",
+    "Title": "PHP",
+    "Description": "I use PHP for back-end development, handling server-side logic and database interactions."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/mysql.png",
+    "Title": "MySQL",
+    "Description": "I use MySQL for creating and managing relational databases, especially in web applications using PHP."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/python.png",
+    "Title": "Python",
+    "Description": "I use Python to experiment with new programming concepts and build automation scripts."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/javascript.png",
+    "Title": "JavaScript",
+    "Description": "I use JavaScript to create interactive elements and enhance front-end functionality on websites."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/css.png",
+    "Title": "CSS",
+    "Description": "I use CSS to style and layout web pages, making them visually appealing and responsive."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/html.png",
+    "Title": "HTML",
+    "Description": "I use HTML to structure the content of websites, forming the foundation of all web pages."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/netlify.png",
+    "Title": "Netlify",
+    "Description": "I use Netlify as a platform and static web hosting to publish my major website projects."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/jquery_nolabel.png",
+    "Title": "JQuery",
+    "Description": "I use JQuery to simplify web developing with JavaScript in websites made with vanilla HTML, CSS and JavaScript."
+  }
+]
