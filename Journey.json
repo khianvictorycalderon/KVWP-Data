@@ -98,5 +98,9 @@
   {
 	"Date": "April 21, 2025",
 	"Description": "I started studying Django as part of requirement project by my private team of community."
+  },
+  {
+    "Date": "Late April - Early May 2025",
+    "Description": "I was redirected away from web development again because I got distracted by our final project in Python, which involves team collaboration and requires my full attention. As a result, I also stopped studying Django and React Native."
   }
 ]
