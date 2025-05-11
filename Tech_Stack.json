@@ -55,6 +55,16 @@
     "Description": "I use HTML to structure the content of websites, forming the foundation of all web pages."
   },
   {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/react.png",
+    "Title": "React Native",
+    "Description": "I use React-Native to develop mobile applications."
+  },,
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/expo.png",
+    "Title": "Expo Dev",
+    "Description": "I use Expo Dev to test my react-native projects."
+  }
+  {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/netlify.png",
     "Title": "Netlify",
     "Description": "I use Netlify as a platform and static web hosting to publish my major website projects."
