@@ -1,98 +1,92 @@
 [
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/stockims.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/stockims.png",
     "Title": "StockIMS",
     "Link": "https://stockims.netlify.app/",
     "Description": "An inventory management system full-stack website with KV Bot Integration."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/gengrade.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/gengrade.png",
     "Title": "GenGrade",
     "Link": "https://gengrade.netlify.app/",
     "Description": "A student grades management system full-stack website with KV Bot Integration."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/chatterplex.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/chatterplex.png",
     "Title": "Chatterplex",
     "Link": "https://chatterplex.netlify.app/",
     "Description": "A no sign-in real-time chat full-stack website system."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/articlestory.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/articlestory.png",
     "Title": "Article Story",
     "Link": "https://articlestory.netlify.app/",
     "Description": "A web platform to share articles and orignal stories."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/kvbot.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/kvbot.png",
     "Title": "KV Chatbot",
     "Link": "https://kvbot.netlify.app/",
     "Description": "A chatbot website trained from scratch with various capabilities."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/unigma.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/unigma.png",
     "Title": "Unigma",
     "Link": "https://unigma.netlify.app/",
     "Description": "(Ultimate Enigma) a text encryption and decryption website based on custom key."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/itp_todolist.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/itp_todolist.png",
     "Title": "ToDo List",
     "Link": "https://khianvictorycalderon.github.io/ITP-WebDev-ToDoList/",
     "Description": "A simple demo website for managing tasks using local storage."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/webplix.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/webplix.png",
     "Title": "Webplix",
     "Link": "https://khianvictorycalderon.github.io/Webplix/",
     "Description": "A demo business website with layouts and interactive bot."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/aspire.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/aspire.png",
     "Title": "Aspire",
     "Link": "https://khianvictorycalderon.github.io/Aspire/",
     "Description": "A business and career recommedation website."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/myportfolioV2.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/myportfolioV2.png",
     "Title": "My Portfolio Version 2",
     "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V2/",
     "Description": "The remake verion of my portfolio V1 with light and dark theme and small projects."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/myportfolioV1.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/myportfolioV1.png",
     "Title": "My Portfolio V1",
     "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V1/",
     "Description": "The first version of my portfolio with primitive design."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/litesalesanalyzer.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/litesalesanalyzer.png",
     "Title": "Lite Sales Analyzer",
     "Link": "https://lite-sales-analyzer.netlify.app/",
     "Description": "A website that analyzes sales data."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/sampleportfolio.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/sampleportfolio.png",
     "Title": "Sample Portfolio Templates",
     "Link": "https://sampleportfoliostyles.netlify.app/",
     "Description": "A sample website with 3 preset portfolio with different design."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/koreanportfolio.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/koreanportfolio.png",
     "Title": "My Korean Portfolio",
     "Link": "https://khianvictorycalderon.github.io/My-Sample-Korean-Portfolio/",
     "Description": "My korean version of my portfolio for EPS-TOPIK."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/elevencrushtips.png",
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/elevencrushtips.png",
     "Title": "Eleven Crush Tips",
     "Link": "https://elevencrushtips.github.io/",
     "Description": "My first ever published website built with HTML and CSS only."
-  },
-  {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/proj/githubaccount.png",
-    "Title": "My Other GitHub Small Projects",
-    "Link": "https://github.com/khianvictorycalderon?tab=repositories",
-    "Description": "A collection of my other small projects on my GitHub Repos."
   }
 ]
