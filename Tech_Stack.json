@@ -35,6 +35,11 @@
     "Description": "I use Python to experiment with new programming concepts and build automation scripts."
   },
   {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/tkinter.png",
+    "Title": "Tkinter",
+    "Description": "I use this python library to make desktop application interfaces."
+  },
+  {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/javascript.png",
     "Title": "JavaScript",
     "Description": "I use JavaScript to create interactive elements and enhance front-end functionality on websites."
@@ -58,5 +63,10 @@
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/jquery_nolabel.png",
     "Title": "JQuery",
     "Description": "I use JQuery to simplify web developing with JavaScript in websites made with vanilla HTML, CSS and JavaScript."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/git.png",
+    "Title": "Git",
+    "Description": "I use Git for team collaboration and to keep track of changes in my projects."
   }
 ]
