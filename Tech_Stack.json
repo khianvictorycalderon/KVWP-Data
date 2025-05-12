@@ -2,12 +2,12 @@
   {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/react.png",
     "Title": "React",
-    "Description": "I use React to build dynamic and interactive user interfaces with JavaScript XML and TypeScript."
+    "Description": "I use React to build dynamic and interactive websites with JavaScript XML and TypeScript."
   },
   {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/bootstrap.png",
     "Title": "Bootstrap",
-    "Description": "I use Bootstrap to quickly design responsive and mobile-first websites."
+    "Description": "I use this CSS framework due to its design templates and mobile-responsive for my websites."
   },
   {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/firebase.png",
@@ -22,7 +22,7 @@
   {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/php.png",
     "Title": "PHP",
-    "Description": "I use PHP for back-end development, handling server-side logic and database interactions."
+    "Description": "I use PHP for back-end web development, handling server-side logic and database interactions."
   },
   {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/mysql.png",
@@ -32,7 +32,7 @@
   {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/python.png",
     "Title": "Python",
-    "Description": "I use Python to experiment with new programming concepts and build automation scripts."
+    "Description": "I use Python to create and test desktop applications."
   },
   {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/tkinter.png",
