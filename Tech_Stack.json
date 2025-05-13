@@ -15,7 +15,7 @@
     "Description": "I use Firebase to manage databases on the front-end and provide real-time synchronization without needing a back-end."
   },
   {
-    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/google-analytics.png",
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/google_analytics.png",
     "Title": "Google Analytics",
     "Description": "I use Google Analytics to monitor website performance by tracking user visits, actions, and events."
   },
@@ -38,6 +38,11 @@
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/tkinter.png",
     "Title": "Tkinter",
     "Description": "I use this python library to make desktop application interfaces."
+  },
+  {
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/custom_tkinter.png",
+    "Title": "Custom Tkinter",
+    "Description": "I use this python library to help me create modern user interfaces for desktop applications."
   },
   {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/javascript.png",
