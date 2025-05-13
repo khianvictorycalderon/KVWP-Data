@@ -6,6 +6,12 @@
     "Description": "A major team collab school project that records student payment transactions."
   },
   {
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/passwordgenerator.png",
+    "Title": "Password Generator",
+    "Link": "https://github.com/khianvictorycalderon/CTK-Password-Generator",
+    "Description": "My first custom-tkinter project, generates a set of random password based on length input."
+  },
+  {
     "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/scoretracker.png",
     "Title": "Student Score Tracker",
     "Link": "https://github.com/khianvictorycalderon/ITCS103-Calderon-Khian-Score-Tracker",
