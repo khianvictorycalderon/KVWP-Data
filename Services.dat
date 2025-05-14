@@ -1,27 +1,32 @@
-<b>Last Updated: </b><i>May 11, 2025.</i>
+<b>Last Updated: </b><i>May 14, 2025.</i>
 
 <br/><br/>
 
-<h4>What I do?</h4>
+<h2>What I do:</h2>
+<hr/>
 <ul>
-  <li>I only make websites using <b>React + Firebase</b> or <b>PHP + MySQL</b> for full-stack websites.</li>
+  <li>I develop websites using <b>React + Firebase</b> or <b>PHP + MySQL</b> for full-stack websites.</li>
   <li>I make vanilla websites, but only for front-end development.</li>
+  <li>I develop desktop applications using python and tkinter or custom tkinter.</li>
+  <li>I develop mobile applications using react-native and expo go.</li>
   <li>I create logos specifically for projects only.</li>
   <li>I provide deployment services for React websites, but without custom domain names.</li>
   <li>I offer front-end web development & design.</li>
-  <li>I deliver source code to clients only after full payment is received.</li>
+  <li>I deliver source code to clients only after full payment is received via github or via private messaging.</li>
   <li>I deliver the full product or deployment only after full payment is received.</li>
 </ul>
 
 <br/>
 
-<h4>What I don't do?</h4>
+<h2>What I don't do:</h2>
+<hr/>
 <ul>
   <li>I do not deploy PHP + MySQL websites.</li>
   <li>I do not do graphic design, as I am not a graphic artist.</li>
-  <li>I do not host websites; I rely on third-party web hosting services. I am a web developer, not a software engineer.</li>
+  <li>I do not host websites; I rely on third-party web hosting services.</li>
+  <li>I do not publish desktop nor mobile applications in any platform such as playstore, appstore, etc... It is the client's responsibility to publish their own project.</li>
   <li>I do not create 3D models, as I am not a 3D artist.</li>
-  <li>I do not work with custom domain names for React websites. Clients must provide their own domain name.</li>
+  <li>I do not work with custom domain names for react websites. Clients must provide their own domain name unless they specifically requested to use free domain such as <u>netlify.app</u>, <u>vercel.app</u>, etc...</li>
   <li>I do not work on long-term projects; I focus on short-term projects (projects that are less than 3 months).</li>
   <li>I do not develop games.</li>
   <li>I do not explore system network vulnerabilities, as I am not a cybersecurity expert.</li>
@@ -31,12 +36,40 @@
 
 <br/>
 
+<h2>Project Terms</h2>
+<hr/>
+
 <h4>Payment Terms</h4>
 <ul>
   <li>I may or not require a <b>downpayment</b> before starting any project. The amount will be discussed and agreed upon in advance (typically 25%).</li>
   <li>I only accept payments via <b>PayPal</b>, <b>Gcash</b>, or other platform-specific payment methods (as agreed upon).</li>
   <li>Failure to complete the full payment within the agreed time will result in project termination, regardless of the partial amount paid.</li>
 </ul>
+
+<br/>
+
+<h4>Acceptance</h4>
+<span>I reserve the right to decline a project if the timeline provided by the client is deemed unreasonable. A project will only commence once both parties agree on the scope and deadline. I require project contract to avoid conflicts and legal consequences before project development starts which will be provided by me and the terms must be accepted by the client.</span><br/>
+
+<br/>
+
+<h4>Scope of Work</h4>
+<span>As a web, desktop app, and mobile app developer, I am only limited to developing these system and does not include tracing, reverse code engineering, making graphics, drawing, audio recording, image production, file safe-keeping, project backups, etc... as also stated in my <b>What I don't do</b> section.</span><br/>
+
+<br/>
+
+<h4>Termination and Cancellation</h4>
+<span>In the event of project cancellation or termination, a refund of 50% of the total cost will be issued. Cancellation by the client halts all work immediately. I may cancel the project under circumstances such as late payment, significant changes, misconduct, technical issues, or personal emergencies.</span><br/>
+
+<br/>
+
+<h4>Delivery</h4>
+<span>All the project build and source code files are to be delivered via github, or any platform in which the I and the client have agreed upon.</span><br/>
+
+<br/>
+
+<h4>Confidentiality and Intellectual Property</h4>
+<span>All project-related information will be kept confidential. Intellectual property rights will be defined and agreed upon before project commencement.</span><br/>
 
 <br/>
 
@@ -56,4 +89,13 @@
 <br/>
 
 <h4>Working Hours</h4>
-<span>As a college student, I strive to balance my education with my freelance work. I typically work during evenings and weekends, but please note that project timelines may be affected by my academic schedule.</span>
+<span>As a college student, I strive to balance my education with my freelance work. I typically work during evenings and weekends, but please note that project timelines may be affected by my academic schedule.</span><br/>
+
+<br/>
+
+<h2>Conflict & Resolution</h2>
+<hr/>
+
+<br/>
+
+<span>In the event of a conflict, these terms will serve as the primary reference for resolution. Where inconsistencies arise between these terms and any other documentation or communication, these terms shall prevail unless explicitly stated otherwise in a written agreement by both parties.</span>
