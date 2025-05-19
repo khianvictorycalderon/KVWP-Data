@@ -20,16 +20,6 @@
     "Description": "I use Google Analytics to monitor website performance by tracking user visits, actions, and events."
   },
   {
-    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/php.png",
-    "Title": "PHP",
-    "Description": "I use PHP for back-end web development, handling server-side logic and database interactions."
-  },
-  {
-    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/mysql.png",
-    "Title": "MySQL",
-    "Description": "I use MySQL for creating and managing relational databases, especially in web applications using PHP."
-  },
-  {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/python.png",
     "Title": "Python",
     "Description": "I use Python to create and test desktop applications."
