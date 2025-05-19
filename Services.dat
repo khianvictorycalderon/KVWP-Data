@@ -1,19 +1,18 @@
-<b>Last Updated: </b><i>May 14, 2025.</i>
+<b>Last Updated: </b><i>May 19, 2025.</i>
 
 <br/><br/>
 
 <h2>What I do:</h2>
 <hr/>
 <ul>
-  <li>I develop websites using <b>React + Firebase</b> or <b>PHP + MySQL</b> for full-stack websites.</li>
-  <li>I make vanilla websites, but only for front-end development.</li>
-  <li>I develop desktop applications using python and tkinter or custom tkinter.</li>
-  <li>I develop mobile applications using react-native and expo go.</li>
-  <li>I create logos specifically for projects only.</li>
-  <li>I provide deployment services for React websites, but without custom domain names.</li>
-  <li>I offer front-end web development & design.</li>
-  <li>I deliver source code to clients only after full payment is received via github or via private messaging.</li>
-  <li>I deliver the full product or deployment only after full payment is received.</li>
+  <li>I build front-end websites using <b>React</b> or plain <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and occasionally <b>jQuery</b>.</li>
+  <li>I develop full-stack applications with <b>React</b> and <b>Firebase</b>.</li>
+  <li>I create responsive websites that work well on both desktop and mobile devices.</li>
+  <li>I develop desktop apps using <b>Python</b> with <b>Tkinter</b> or <b>Custom Tkinter</b>.</li>
+  <li>I build mobile apps using <b>React Native</b> and <b>Expo Go</b>.</li>
+  <li>I design logos exclusively for specific projects.</li>
+  <li>I offer deployment services for <b>React</b> websites, with or without <b>Firebase</b>, excluding custom domain setup.</li>
+  <li>I deliver the <b>Source Code</b> and final <b>Product</b> via GitHub or private messaging after full payment is received.</li>
 </ul>
 
 <br/>
@@ -21,22 +20,21 @@
 <h2>What I don't do:</h2>
 <hr/>
 <ul>
-  <li>I do not deploy PHP + MySQL websites.</li>
-  <li>I do not do graphic design, as I am not a graphic artist.</li>
-  <li>I do not host websites; I rely on third-party web hosting services.</li>
-  <li>I do not publish desktop nor mobile applications in any platform such as playstore, appstore, etc... It is the client's responsibility to publish their own project.</li>
-  <li>I do not create 3D models, as I am not a 3D artist.</li>
-  <li>I do not work with custom domain names for react websites. Clients must provide their own domain name unless they specifically requested to use free domain such as <u>netlify.app</u>, <u>vercel.app</u>, etc...</li>
-  <li>I do not work on long-term projects; I focus on short-term projects (projects that are less than 3 months).</li>
-  <li>I do not develop games.</li>
-  <li>I do not explore system network vulnerabilities, as I am not a cybersecurity expert.</li>
-  <li>I do not engage in large enterprise projects yet as of May 2025; I only work on small to medium-sized projects.</li>
-  <li>I don’t accept rush deadlines unless absolutely necessary. I value quality and need sufficient time to deliver high-quality results.</li>
+  <li>I don't develop or deploy websites using PHP + MySQL.</li>
+  <li>I don't offer graphic design services, as I'm not a graphic artist.</li>
+  <li>I don't provide web hosting; I use third-party hosting platforms.</li>
+  <li>I don't publish desktop or mobile apps to stores like Play Store or App Store—clients must handle publishing.</li>
+  <li>I don't create 3D models, as I'm not a 3D artist.</li>
+  <li>I don't manage custom domain names for React sites. Clients must provide their domain, or opt for free domains like <u>netlify.app</u> or <u>vercel.app</u>.</li>
+  <li>I don't take on long-term projects (over 3 months); I focus on short-term tasks.</li>
+  <li>I don't develop games.</li>
+  <li>I don't provide production-ready cloud databases; clients must set up their own. Local databases are not included.</li>
+  <li>I don't assess system/network vulnerabilities; I'm not a cybersecurity professional.</li>
 </ul>
 
 <br/>
 
-<h2>Project Terms</h2>
+<h2>Project Terms & Conditions</h2>
 <hr/>
 
 <h4>Payment Terms</h4>
