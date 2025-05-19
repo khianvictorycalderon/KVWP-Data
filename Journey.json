@@ -110,5 +110,9 @@
   {
     "Date": "May 11, 2025",
     "Description": "I decided to change my specialization from website to web, desktop, and mobile developer and also updated my portfolio as well."
+  },
+  {
+    "Date": "May 19, 2025",
+    "Description": "After experimentation with PHP, I realized why many developers hate it. It's so much complicated, so I decided to just focus on React and Firebase for full stack websites, I do not like PHP anymore."
   }
 ]
