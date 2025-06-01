@@ -114,5 +114,9 @@
   {
     "Date": "May 19, 2025",
     "Description": "After experimentation with PHP, I realized why many developers hate it. It's so much complicated, so I decided to just focus on React and Firebase for full stack websites, I do not like PHP anymore."
+  },
+  {
+    "Date": "June 1, 2025",
+    "Description": "I started making python custom tkinter templates for faster project development in the future. Inspired by react component-based code templates."
   }
 ]
