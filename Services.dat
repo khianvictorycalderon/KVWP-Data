@@ -1,4 +1,4 @@
-<b>Last Updated: </b><i>May 19, 2025.</i>
+<b>Last Updated: </b><i>June 3, 2025.</i>
 
 <br/><br/>
 
@@ -30,6 +30,7 @@
   <li>I don't develop games.</li>
   <li>I don't provide production-ready cloud databases; clients must set up their own. Local databases are not included.</li>
   <li>I don't assess system/network vulnerabilities; I'm not a cybersecurity professional.</li>
+  <li>I no longer offer project support after final delivery. Once the client receives the completed product and source code upon full payment, my involvement ends.</li>
 </ul>
 
 <br/>
@@ -56,35 +57,28 @@
 
 <br/>
 
-<h4>Termination and Cancellation</h4>
-<span>In the event of project cancellation or termination, a refund of 50% of the total cost will be issued. Cancellation by the client halts all work immediately. I may cancel the project under circumstances such as late payment, significant changes, misconduct, technical issues, or personal emergencies.</span><br/>
-
-<br/>
-
 <h4>Delivery</h4>
-<span>All the project build and source code files are to be delivered via github, or any platform in which the I and the client have agreed upon.</span><br/>
+<span>All the project build and source code files are to be delivered via github, or any platform in which the I and the client have agreed upon. After project delivery, any changes will cost a fee.</span><br/>
 
 <br/>
 
 <h4>Ownership, Confidentiality & Intellectual Property</h4>
-<span>
-All project-related materials will remain confidential and will not be shared, published, or made open-source without the client's explicit permission, unless the content is clearly intended for public release. Ownership of the project—including source code and deliverables—will be fully transferred to the client only after complete payment has been received. Until then, the project remains my sole intellectual property.
-</span><br/>
-
-<br/>
-
-<h4>Completion Support</h4>
-<span>I offer maximum <b>3 days of free support</b> after project completion for minor issues. Any major issues will incur additional charges.</span><br/>
+<span>All project-related materials will remain confidential and will not be shared, published, or made open-source without the client's explicit permission, unless the content is clearly intended for public release. Ownership of the project—including source code and deliverables—will be fully transferred to the client only after complete payment has been received. Until then, the project remains my sole intellectual property.</span><br/>
 
 <br/>
 
 <h4>Project Changes</h4>
-<span>Any changes or additional requests during the development process will be subject to additional costs, as it may affect the project scope and deadline.</span><br/>
+<span>I only accept a maximum of 2 major revisions or changes during project development to avoid affecting project quality and deadline. Any changes or revisions will increase project price.</span><br/>
 
 <br/>
 
 <h4>Working Hours</h4>
 <span>As a college student, I strive to balance my education with my freelance work. I typically work during evenings and weekends, but please note that project timelines may be affected by my academic schedule. I usually spent 2 - 3 hours per day when I have half-day class and little to none when I have full-day class.</span><br/>
+
+<br/>
+
+<h4>Project Termination</h4>
+<span>If a client violates the agreed terms after payment, I reserve the right to suspend or terminate the project without refund to protect both parties.</span><br/>
 
 <br/><br/>
 
