@@ -1,19 +1,19 @@
-<b>Last Updated: </b><i>June 5, 2025.</i>
+<b>Last Updated: </b><i>June 11, 2025.</i>
 
 <br/><br/>
 
 <h2>What I do:</h2>
 <hr/>
 <ul>
-  <li>I build front-end websites using <b>React</b> or plain <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and occasionally <b>jQuery</b>.</li>
+  <li>I build front-end websites using <b>React</b> or plain <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</li>
   <li>I develop full-stack websites with <b>React</b> and <b>Firebase</b>.</li>
   <li>I create responsive websites that work well on both desktop and mobile devices.</li>
   <li>I develop desktop applications using <b>Python</b> with <b>Tkinter</b> or <b>Custom Tkinter</b>.</li>
   <li>I build mobile applications using <b>React Native</b> and <b>Expo Go</b>.</li>
-  <li>I only develop mobile app for Android OS only.</li>
+  <li>I only develop mobile app for Android OS.</li>
   <li>I design logos exclusively for specific projects.</li>
   <li>I offer deployment services for <b>React</b> websites, with or without <b>Firebase</b>, excluding custom domain setup.</li>
-  <li>I deliver the <b>Source Code</b> and final <b>Product</b> via GitHub or private messaging after full payment is received.</li>
+  <li>I deliver the <b>Source Code</b> and final <b>Product</b> via cloud storage platform, such as Google Drive, after full payment is received.</li>
 </ul>
 
 <br/>
@@ -21,18 +21,16 @@
 <h2>What I don't do:</h2>
 <hr/>
 <ul>
-  <li>I don't develop or deploy websites using PHP + MySQL.</li>
   <li>I don't offer graphic design services, as I'm not a graphic artist.</li>
   <li>I don't provide web hosting; I use third-party hosting platforms.</li>
   <li>I don't publish desktop or mobile applications to stores like Play Store or App Store—clients must handle publishing.</li>
   <li>I don't create 3D models, as I'm not a 3D artist.</li>
   <li>I don't manage custom domain names for React sites. Clients must provide their domain, or opt for free domains like <u>netlify.app</u> or <u>vercel.app</u>.</li>
-  <li>I don't take on long-term projects (over 3 months); I focus on short-term tasks.</li>
+  <li>I don't take on long-term projects (over 2 months); I focus on short-term tasks.</li>
   <li>I don't develop games.</li>
   <li>I don't develop IOS mobile app.</li>
   <li>I don't provide production-ready cloud databases; clients must set up their own. Local databases are not included.</li>
   <li>I don't assess system/network vulnerabilities; I'm not a cybersecurity professional.</li>
-  <li>I no longer offer project support after final delivery. Once the client receives the completed product and source code upon full payment, my involvement ends.</li>
 </ul>
 
 <br/>
@@ -42,49 +40,50 @@
 
 <h4>Payment Terms</h4>
 <ul>
-  <li>I may or not require a <b>downpayment</b> before starting any project. The amount will be discussed and agreed upon in advance (typically 25%).</li>
-  <li>I only accept payments via <b>PayPal</b>, <b>Gcash</b>, or other platform-specific payment methods (as agreed upon).</li>
-  <li>Failure to complete the full payment within the agreed time will result in project termination, regardless of the partial amount paid.</li>
+  <li>I require a <b>downpayment</b> before starting any project. The amount will be discussed and agreed upon in advance (Typically 50%).</li>
+  <li>For direct transactions via private message (PM) or direct message (DM), I only accept payments through <b>PayPal</b> or <b>GCash</b>.</li>
+  <li>For platform-based transactions such as on <b>Freelancer.com</b> or <b>Upwork</b>, I strictly follow and comply with the payment and policy terms set by the respective platform.</li>
+  <li>Failure to complete the full payment after repeated reminders may result in appropriate legal action being taken.</li>
 </ul>
 
 <br/>
 
-<h4>Acceptance</h4>
-<span>I reserve the right to decline a project if the timeline provided by the client is deemed unreasonable. A project will only commence once both parties agree on the scope and deadline. I require project contract to avoid conflicts and legal consequences before project development starts which will be provided by me and the terms must be accepted by the client.</span><br/>
+<h4>Feasibility</h4>
+<span>I reserve the right to decline a project if the timeline or budget provided by the client is deemed unreasonable. A project will only commence once both parties agree on the scope and deadline. I require a project contract to avoid conflicts and legal consequences before development begins. The contract will be provided by me and must be accepted by the client.</span><br/>
 
 <br/>
 
-<h4>Scope of Work</h4>
-<span>As a web, desktop app, and mobile app developer, I am only limited to developing these system and does not include tracing, reverse code engineering, making graphics, drawing, audio recording, image production, file safe-keeping, project backups, etc... as also stated in my <b>What I don't do</b> section.</span><br/>
-
-<br/>
-
-<h4>Delivery</h4>
-<span>All the project build and source code files are to be delivered via github, or any platform in which the I and the client have agreed upon. After project delivery, any changes will cost a fee.</span><br/>
+<h4>Scope</h4>
+<span>As a web, desktop app, and mobile app developer, My work is limited to developing these types of systems and does not include: tracing, reverse code engineering, making graphics, drawing, audio recording, image production, file safe-keeping, project backups, etc... as also stated in my <b>What I don't do</b> section.</span><br/>
 
 <br/>
 
 <h4>Ownership, Confidentiality & Intellectual Property</h4>
-<span>All project-related materials will remain confidential and will not be shared, published, or made open-source without the client's explicit permission, unless the content is clearly intended for public release. Ownership of the project—including source code and deliverables—will be fully transferred to the client only after complete payment has been received. Until then, the project remains my sole intellectual property.</span><br/>
+<span>All project-related materials will remain confidential and will not be shared, published, or made open-source without the client's explicit permission, unless the content is clearly intended for public release. Ownership of the project—including source code and deliverables—will be fully transferred to the client only after complete payment has been received. Until then, the entire project is my intellectual property.</span><br/>
 
 <br/>
 
-<h4>Project Changes</h4>
+<h4>Changes</h4>
 <span>I only accept a maximum of 2 major revisions or changes during project development to avoid affecting project quality and deadline. Any changes or revisions will increase project price.</span><br/>
 
 <br/>
 
-<h4>Working Hours</h4>
-<span>As a college student, I strive to balance my education with my freelance work. I typically work during evenings and weekends, but please note that project timelines may be affected by my academic schedule. I usually spent 2 - 3 hours per day when I have half-day class and little to none when I have full-day class.</span><br/>
+<h4>Warranty & Support</h4>
+<span>I provide a limited support period of up to <b>3 days</b> after the final delivery of the project. During this time, I will fix any bugs or technical issues related to the delivered product at no additional cost. This warranty does not cover new feature requests, design changes, or issues caused by modifications made by the client or third parties. After the 3-day period, any support, updates, or revisions will be considered as separate billable tasks and will incur additional charges.</span>
 
 <br/>
 
-<h4>Project Termination</h4>
-<span>If a client violates the agreed terms after payment, I reserve the right to suspend or terminate the project without refund to protect both parties.</span><br/>
+<h4>Working Hours</h4>
+<span>As a college student, I strive to balance my education with my freelance work. I typically work during evenings and weekends, but please note that project timelines may be affected by my academic schedule. I typically dedicate 2–3 hours on days with half-day classes, and limited to no time on full academic days.</span><br/>
+
+<br/>
+
+<h4>Termination</h4>
+<span>If a client violates the agreed terms after payment, I may suspend or terminate the project without refund to protect both parties.</span><br/>
 
 <br/><br/>
 
 <h2>Conflict & Resolution</h2>
 <hr/>
 
-<span>In the event of a conflict, these terms will serve as the primary reference for resolution. Where inconsistencies arise between these terms and any other documentation or communication, these terms shall prevail unless explicitly stated otherwise in a written agreement by both parties.</span>
+<span>In the event of a conflict, these terms will serve as the primary reference for resolution. If any inconsistencies arise between these terms and other documentation or communication, these terms shall take precedence unless otherwise agreed in writing by both parties.</span>
