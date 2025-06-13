@@ -1,5 +1,11 @@
 [
   {
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/projectmanager.jpg",
+    "Title": "Project Manager System",
+    "Link": "https://github.com/khianvictorycalderon/Project-Manager",
+    "Description": "A major desktop app with installer that keep tracks of projects."
+  },
+  {
     "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/treasurymanagement.png",
     "Title": "Treasury Management System",
     "Link": "https://github.com/khianvictorycalderon/Treasury-Management-System",
