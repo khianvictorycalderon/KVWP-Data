@@ -65,11 +65,6 @@
     "Description": "I use Netlify as a platform and static web hosting to publish my major website projects."
   },
   {
-    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/jquery_nolabel.png",
-    "Title": "JQuery",
-    "Description": "I use JQuery to simplify web developing with JavaScript in websites made with vanilla HTML, CSS and JavaScript."
-  },
-  {
     "Image": "https://khianvictorycalderon.github.io/KVWP-Data/tech/git.png",
     "Title": "Git",
     "Description": "I use Git for team collaboration and to keep track of changes in my projects."
