@@ -1,9 +1,4 @@
-<b>Last Updated: </b><i>June 14, 2025.</i>
-
-<br/><br/>
-
 <h2>What I do:</h2>
-<hr/>
 <ul>
   <li>I build front-end websites using <b>React</b> or plain <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</li>
   <li>I develop full-stack websites with <b>React</b> and <b>Firebase</b>.</li>
@@ -18,7 +13,6 @@
 <br/>
 
 <h2>What I don't do:</h2>
-<hr/>
 <ul>
   <li>I don't offer graphic design services, as I'm not a graphic artist.</li>
   <li>I don't provide web hosting; I use third-party hosting platforms.</li>
@@ -32,63 +26,3 @@
   <li>I don't provide production-ready cloud databases; clients must set up their own. Local databases are not included.</li>
   <li>I don't assess system/network vulnerabilities; I'm not a cybersecurity professional.</li>
 </ul>
-
-<br/>
-
-<h2>Project Terms & Conditions</h2>
-<hr/>
-
-<h4>Payment Terms</h4>
-<ul>
-  <li>I require a <b>downpayment</b> before starting any project. The amount will be discussed and agreed upon in advance (Typically 50%).</li>
-  <li>For direct transactions via private message (PM) or direct message (DM), I only accept payments through <b>PayPal</b> or <b>GCash</b>.</li>
-  <li>For platform-based transactions such as on <b>Freelancer.com</b> or <b>Upwork</b>, I strictly follow and comply with the payment and policy terms set by the respective platform.</li>
-  <li>Failure to complete the full payment after repeated reminders may result in appropriate legal action being taken.</li>
-</ul>
-
-<br/>
-
-<h4>Feasibility</h4>
-<span>I reserve the right to decline a project if the timeline or budget provided by the client is deemed unreasonable. A project will only commence once both parties agree on the scope and deadline. I require a project contract to avoid conflicts and legal consequences before development begins. The contract will be provided by me and must be accepted by the client.</span><br/>
-
-<br/>
-
-<h4>Scope</h4>
-<span>As a web, desktop app, and mobile app developer, My work is limited to developing these types of systems and does not include: tracing, reverse code engineering, making graphics, drawing, audio recording, image production, file safe-keeping, project backups, etc... as also stated in my <b>What I don't do</b> section.</span><br/>
-
-<br/>
-
-<h4>Ownership, Confidentiality & Intellectual Property</h4>
-<span>All project-related materials will remain confidential and will not be shared, published, or made open-source without the client's explicit permission, unless the content is clearly intended for public release. Ownership of the project—including source code and deliverables—will be fully transferred to the client only after complete payment has been received. Until then, the entire project is my intellectual property.</span><br/>
-
-<br/>
-
-<h4>Changes</h4>
-<span>I only accept a maximum of 2 major revisions or changes during project development to avoid affecting project quality and deadline. Any changes or revisions will increase project price.</span><br/>
-
-<br/>
-
-<h4>Delayed Payment</h4>
-<span>A payment that is not made by the due date on the invoice is considered a delayed payment and will incur an additional daily charge.</span><br/>
-
-<br/>
-
-<h4>Warranty & Support</h4>
-<span>I provide a limited support period of up to <b>3 days</b> after the final delivery of the project. During this time, I will fix any bugs or technical issues related to the delivered product at no additional cost. This warranty does not cover new feature requests, design changes, or issues caused by modifications made by the client or third parties. After the 3-day period, any support, updates, or revisions will be considered as separate billable tasks and will incur additional charges.</span><br/>
-
-<br/>
-
-<h4>Working Hours</h4>
-<span>As a college student, I strive to balance my education with my freelance work. I typically work during evenings and weekends, but please note that project timelines may be affected by my academic schedule. I typically dedicate 2–3 hours on days with half-day classes, and limited to no time on full academic days.</span><br/>
-
-<br/>
-
-<h4>Termination</h4>
-<span>If a client violates the agreed terms after payment, I may suspend or terminate the project without refund to protect both parties.</span><br/>
-
-<br/><br/>
-
-<h2>Conflict & Resolution</h2>
-<hr/>
-
-<span>In the event of a conflict, these terms will serve as the primary reference for resolution. If any inconsistencies arise between these terms and other documentation or communication, these terms shall take precedence unless otherwise agreed in writing by both parties.</span>
