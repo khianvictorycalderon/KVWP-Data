@@ -1,5 +1,11 @@
 [
   {
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/etios.png",
+    "Title": "Employee Time In Out System",
+    "Link": "https://github.com/khianvictorycalderon/Employee-Time-In-Out-System",
+    "Description": "A major desktop app with installer that keep tracks of employee attendance logs."
+  },
+  {
     "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/projectmanager.jpg",
     "Title": "Project Manager System",
     "Link": "https://github.com/khianvictorycalderon/Project-Manager",
