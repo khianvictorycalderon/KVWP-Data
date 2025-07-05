@@ -36,6 +36,12 @@
     "Description": "(Ultimate Enigma) a text encryption and decryption website based on custom key."
   },
   {
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/clother.png",
+    "Title": "Clother",
+    "Link": "https://khianvictorycalderon.github.io/Landing-Page-Demo/",
+    "Description": "A simple landing page demo webpage."
+  },
+  {
     "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/itp_todolist.png",
     "Title": "ToDo List",
     "Link": "https://khianvictorycalderon.github.io/ITP-WebDev-ToDoList/",
