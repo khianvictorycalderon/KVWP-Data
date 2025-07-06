@@ -88,8 +88,8 @@
     "Description": "I began working on projects that were more polished and professional, guided by my professors and peers."
   },
   {
-	  "Date": "April 2025",
-	  "Description": "I started studying react-native, the structure look so much like react."
+    "Date": "April 2025",
+    "Description": "I started studying react-native, the structure look so much like react."
   },
   {
     "Date": "April 21, 2025",
@@ -121,6 +121,6 @@
   },
   {
     "Date": "July 2, 2025",
-    "Description": "I faced a major setback: I terminated a major project deal with the client because they don't follow my project terms."
+    "Description": "I terminated a major project deal with a client due to failure to comply with my project terms."
   }
 ]
