@@ -42,12 +42,6 @@
     "Description": "A simple landing page demo webpage."
   },
   {
-    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/itp_todolist.png",
-    "Title": "ToDo List",
-    "Link": "https://khianvictorycalderon.github.io/ITP-WebDev-ToDoList/",
-    "Description": "A simple demo website for managing tasks using local storage."
-  },
-  {
     "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/webplix.png",
     "Title": "Webplix",
     "Link": "https://khianvictorycalderon.github.io/Webplix/",
@@ -70,6 +64,12 @@
     "Title": "My Portfolio V1",
     "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V1/",
     "Description": "The first version of my portfolio with primitive design."
+  },
+  {
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/itp_todolist.png",
+    "Title": "ToDo List",
+    "Link": "https://khianvictorycalderon.github.io/ITP-WebDev-ToDoList/",
+    "Description": "A simple demo website for managing tasks using local storage."
   },
   {
     "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/litesalesanalyzer.png",
