@@ -48,6 +48,12 @@
     "Description": "A demo business website with layouts and interactive bot."
   },
   {
+    "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/modernportfolio.png",
+    "Title": "Modern Portfolio",
+    "Link": "https://khianvictorycalderon.github.io/Modern-Portfolio/",
+    "Description": "A sample webpage of modern portfolio."
+  },
+  {
     "ImagePath": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/aspire.png",
     "Title": "Aspire",
     "Link": "https://khianvictorycalderon.github.io/Aspire/",
