@@ -19,5 +19,12 @@
     "Description": "<p>Information Communication Technology</p>",
     "ImageHref": "https://www.facebook.com/@ARKLucena/",
     "RoundedImage": true
+  },
+  {
+    "Title": "Gulang-Gulang National High School",
+    "Image": "https://khianvictorycalderon.github.io/KVWP-Data/educ/gnhs.png",
+    "Description": "<p>Science Technology Engineering <i>(Program)</i></p>",
+    "ImageHref": "https://www.facebook.com/DepEdTayoGNHS308503/",
+    "RoundedImage": true
   }
 ]
