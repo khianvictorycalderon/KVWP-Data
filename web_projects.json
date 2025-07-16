@@ -91,6 +91,13 @@
         "TechStack": ["HTML", "CSS", "JavaScript"]
     },
     {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/simpleblog.png",
+        "Title": "Simple Blog",
+        "Link": "https://github.com/khianvictorycalderon/Flask-Simple-Blog",
+        "Description": "My first official Flask Project that let's you post and delete blogs.",
+        "TechStack": ["Python", "Flask"]
+    },
+    {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/itp_todolist.png",
         "Title": "ToDo List",
         "Link": "https://khianvictorycalderon.github.io/ITP-WebDev-ToDoList/",
