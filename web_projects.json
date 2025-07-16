@@ -63,13 +63,6 @@
         "TechStack": ["React", "Bootstrap"]
     },
     {
-        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/aspire.png",
-        "Title": "Aspire",
-        "Link": "https://khianvictorycalderon.github.io/Aspire/",
-        "Description": "A business and career recommedation website.",
-        "TechStack": ["HTML", "CSS", "JavaScript"]
-    },
-    {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/myportfolioV3.png",
         "Title": "My Portfolio Version 3",
         "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V3/",
@@ -89,6 +82,13 @@
         "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V1/",
         "Description": "The first version of my portfolio with primitive design.",
         "TechStack": ["React", "Bootstrap"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/aspire.png",
+        "Title": "Aspire",
+        "Link": "https://khianvictorycalderon.github.io/Aspire/",
+        "Description": "A business and career recommedation website.",
+        "TechStack": ["HTML", "CSS", "JavaScript"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/itp_todolist.png",
