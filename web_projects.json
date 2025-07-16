@@ -70,6 +70,13 @@
         "TechStack": ["HTML", "CSS", "JavaScript"]
     },
     {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/myportfolioV3.png",
+        "Title": "My Portfolio Version 3",
+        "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V3/",
+        "Description": "The improved version of my portfolio V2 with slightly more professional looks.",
+        "TechStack": ["React", "Bootstrap"]
+    },
+    {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/myportfolioV2.png",
         "Title": "My Portfolio Version 2",
         "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V2/",
