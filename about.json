@@ -54,7 +54,7 @@
         },
         {
             "Date": "May 3, 2023",
-            "Description": "I published my first website as part of a work immersion project during senior high school. You can find the project and its code <a href=https://github.com/elevencrushtips target=_blank>here</a> on my separate GitHub account, titled 'Eleven Crush Tips'."
+            "Description": "I published my first website as part of a work immersion project during senior high school. You can find the project and its code <a class='bg-amber-600 underline' href=https://github.com/elevencrushtips target=_blank>here</a> on my separate GitHub account, titled 'Eleven Crush Tips'."
         },
         {
             "Date": "May - June 2023",
@@ -62,11 +62,11 @@
         },
         {
             "Date": "July 3, 2023",
-            "Description": "I published my first game, <a href=https://play.google.com/store/apps/details?id=com.khianvictory.blueball2d target=_blank>Blue Ball 2D</a>, on the Google Play Store. It's a simple game similar to Flappy Bird, but with a vertical direction. This period marked the start of my exploration into both game and web development. <br/><b>Note: Due to inactivity in my Google Developer account, both my account and games were at risk of being removed.</b>"
+            "Description": "I published my first game, <a class='bg-amber-600 underline' href=https://play.google.com/store/apps/details?id=com.khianvictory.blueball2d target=_blank>Blue Ball 2D</a>, on the Google Play Store. It's a simple game similar to Flappy Bird, but with a vertical direction. This period marked the start of my exploration into both game and web development. <br/><b>Note: Due to inactivity in my Google Developer account, both my account and games were at risk of being removed.</b>"
         },
         {
             "Date": "August 23, 2023",
-            "Description": "I published my second game, <a href=https://play.google.com/store/apps/details?id=com.khianvictory.clinx&hl=en target=_blank>Clinx</a>, which involved clicking a circle that appeared in the center of the screen before it disappeared. I was unsure if other games used this mechanic, so I thought I was the first to implement it. <br/><b>Note: Due to inactivity in my Google Developer account, both my account and games were at risk of being removed.</b>"
+            "Description": "I published my second game, <a class='bg-amber-600 underline' href=https://play.google.com/store/apps/details?id=com.khianvictory.clinx&hl=en target=_blank>Clinx</a>, which involved clicking a circle that appeared in the center of the screen before it disappeared. I was unsure if other games used this mechanic, so I thought I was the first to implement it. <br/><b>Note: Due to inactivity in my Google Developer account, both my account and games were at risk of being removed.</b>"
         },
         {
             "Date": "September 4, 2023",
@@ -138,7 +138,7 @@
         },
         {
             "Date": "May 10, 2025",
-            "Description": "We successfully defended our finals project in python <a href=https://github.com/khianvictorycalderon/Treasury-Management-System>Treasury Management System</a>."
+            "Description": "We successfully defended our finals project in python <a class='bg-amber-600 underline' href=https://github.com/khianvictorycalderon/Treasury-Management-System>Treasury Management System</a>."
         },
         {
             "Date": "May 11, 2025",
