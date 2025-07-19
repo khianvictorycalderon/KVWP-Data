@@ -171,6 +171,14 @@
         {
             "Date": "July 14, 2025",
             "Description": "I started diving deep into Tailwind CSS, UIShadCN, React Icons, and as well as backend technologies."
+        },
+	{
+            "Date": "July 17, 2025",
+            "Description": "I started studying Express JS."
+        },
+	{
+            "Date": "July 18, 2025",
+            "Description": "I started studying MongoDB with the goal of learning the MERN stack."
         }
         ]
     }
