@@ -1,0 +1,58 @@
+[
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/etios.png",
+        "Title": "Employee Time In Out System",
+        "Link": "https://github.com/khianvictorycalderon/Employee-Time-In-Out-System",
+        "Description": "A major desktop app with installer that keep tracks of employee attendance logs.",
+        "TechStack": ["Custom-Tkinter", "Openpyxl"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/projectmanager.jpg",
+        "Title": "Project Manager System",
+        "Link": "https://github.com/khianvictorycalderon/Project-Manager",
+        "Description": "A major desktop app with installer that keep tracks of projects.",
+        "TechStack": ["Custom-Tkinter", "Openpyxl"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/treasurymanagement.png",
+        "Title": "Treasury Management System",
+        "Link": "https://github.com/khianvictorycalderon/Treasury-Management-System",
+        "Description": "A major team collab school project that records student payment transactions.",
+        "TechStack": ["Tkinter", "Openpyxl"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/passwordgenerator.png",
+        "Title": "Password Generator",
+        "Link": "https://github.com/khianvictorycalderon/CTK-Password-Generator",
+        "Description": "My first custom-tkinter project, generates a set of random password based on length input.",
+        "TechStack": ["Custom-Tkinter", "Openpyxl"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/gradingsystem.png",
+        "Title": "Simple Grading System",
+        "Link": "https://github.com/khianvictorycalderon/Tkinter-Grading-System",
+        "Description": "A simple app that records and show student grades.",
+        "TechStack": ["Tkinter", "Openpyxl"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/scoretracker.png",
+        "Title": "Student Score Tracker",
+        "Link": "https://github.com/khianvictorycalderon/ITCS103-Calderon-Khian-Score-Tracker",
+        "Description": "An individual simple school project that records student scores.",
+        "TechStack": ["Tkinter", "Openpyxl"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/informationmanagement.png",
+        "Title": "Information Management System",
+        "Link": "https://github.com/khianvictorycalderon/Information-Management-System",
+        "Description": "A simple project that implements simple register and login account system.",
+        "TechStack": ["Custom-Tkinter", "Openpyxl"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/attendancesystem.png",
+        "Title": "Attendance System",
+        "Link": "https://github.com/khianvictorycalderon/Attendance-System",
+        "Description": "A simple experimental project that records student attendance.",
+        "TechStack": ["Tkinter", "Openpyxl"]
+    }
+]
