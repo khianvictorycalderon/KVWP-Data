@@ -187,6 +187,10 @@
 	    {
                 "Date": "July 21, 2025",
                 "Description": "I published my first NextJS project: <a style='color:#ff6f00;' class='underline' href=https://kv-first-nextjs.vercel.app/ target=_blank>here</a>."
+            },
+	    {
+                "Date": "July 23, 2025",
+                "Description": "I started diving deep into Next.js + Supabase tech stack."
             }
         ]
     }
