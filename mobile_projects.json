@@ -4,13 +4,13 @@
         "Title": "PayCal",
         "Link": "https://github.com/khianvictorycalderon/PayCal",
         "Description": "An android app that calculates rate per irregular hour.",
-        "TechStack": ["React-Native", "Expo Go"]
+        "TechStack": ["React Native", "Expo Go"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/mob_proj/simplecalculator.png",
         "Title": "Simple Calculator",
         "Link": "https://github.com/khianvictorycalderon/Simple-Calculator",
         "Description": "My first official React-Native project with colorful buttons, simple and experimental.",
-        "TechStack": ["React-Native", "Expo Go"]
+        "TechStack": ["React Native", "Expo Go"]
     }
 ]
