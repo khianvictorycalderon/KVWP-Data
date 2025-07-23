@@ -1,45 +1,52 @@
 [
     {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/apixer.png",
+        "Title": "Apixer",
+        "Link": "https://apixer.vercel.app/",
+        "Description": "A simple react vite project that enable the test of an API.",
+        "TechStack": ["React", "Tailwind CSS", "API", "SEO"]
+    },
+    {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/stockims.png",
         "Title": "StockIMS",
         "Link": "https://stockims.netlify.app/",
         "Description": "An inventory management system full-stack website with KV Bot Integration.",
-        "TechStack": ["React", "Firebase", "Bootstrap", "Google Analytics"]
+        "TechStack": ["React", "Firebase", "Bootstrap", "Google Analytics", "SEO"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/gengrade.png",
         "Title": "GenGrade",
         "Link": "https://gengrade.netlify.app/",
         "Description": "A student grades management system full-stack website with KV Bot Integration.",
-        "TechStack": ["React", "Firebase", "Bootstrap", "Google Analytics"]
+        "TechStack": ["React", "Firebase", "Bootstrap", "Google Analytics", "SEO"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/chatterplex.png",
         "Title": "Chatterplex",
         "Link": "https://chatterplex.netlify.app/",
         "Description": "A no sign-in real-time chat full-stack website system.",
-        "TechStack": ["React", "Firebase", "Bootstrap", "Google Analytics"]
+        "TechStack": ["React", "Firebase", "Bootstrap", "Google Analytics", "SEO"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/articlestory.png",
         "Title": "Article Story",
         "Link": "https://articlestory.netlify.app/",
         "Description": "A web platform to share articles and orignal stories.",
-        "TechStack": ["React", "Bootstrap", "Google Analytics"]
+        "TechStack": ["React", "Bootstrap", "Google Analytics", "SEO"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/kvbot.png",
         "Title": "KV Chatbot",
         "Link": "https://kvbot.netlify.app/",
         "Description": "A chatbot website trained from scratch with various capabilities.",
-        "TechStack": ["React", "Firebase", "Bootstrap", "Google Analytics"]
+        "TechStack": ["React", "Firebase", "Bootstrap", "Google Analytics", "SEO"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/unigma.png",
         "Title": "Unigma",
         "Link": "https://unigma.netlify.app/",
         "Description": "(Ultimate Enigma) a text encryption and decryption website based on custom key.",
-        "TechStack": ["React", "Bootstrap", "Google Analytics"]
+        "TechStack": ["React", "Bootstrap", "Google Analytics", "SEO"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/webplix.png",
