@@ -4,14 +4,14 @@
         "Title": "Employee Time In Out System",
         "Link": "https://github.com/khianvictorycalderon/Employee-Time-In-Out-System",
         "Description": "A major desktop app with installer that keep tracks of employee attendance logs.",
-        "TechStack": ["Custom-Tkinter", "Openpyxl"]
+        "TechStack": ["CustomTkinter", "Openpyxl"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/projectmanager.jpg",
         "Title": "Project Manager System",
         "Link": "https://github.com/khianvictorycalderon/Project-Manager",
         "Description": "A major desktop app with installer that keep tracks of projects.",
-        "TechStack": ["Custom-Tkinter", "Openpyxl"]
+        "TechStack": ["CustomTkinter", "Openpyxl"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/treasurymanagement.png",
@@ -24,8 +24,8 @@
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/passwordgenerator.png",
         "Title": "Password Generator",
         "Link": "https://github.com/khianvictorycalderon/CTK-Password-Generator",
-        "Description": "My first custom-tkinter project, generates a set of random password based on length input.",
-        "TechStack": ["Custom-Tkinter", "Openpyxl"]
+        "Description": "My first CustomTkinter project, generates a set of random password based on length input.",
+        "TechStack": ["CustomTkinter", "Openpyxl"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/gradingsystem.png",
@@ -46,7 +46,7 @@
         "Title": "Information Management System",
         "Link": "https://github.com/khianvictorycalderon/Information-Management-System",
         "Description": "A simple project that implements simple register and login account system.",
-        "TechStack": ["Custom-Tkinter", "Openpyxl"]
+        "TechStack": ["CustomTkinter", "Openpyxl"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/desk_proj/attendancesystem.png",
