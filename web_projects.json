@@ -3,7 +3,7 @@
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/coffevup.png",
         "Title": "Coffee Vup",
         "Link": "https://khianvictorycalderon.github.io/Coffee-Vup/",
-        "Description": "A simple front-end website landing page for a business",
+        "Description": "A simple front-end demo business website landing page.",
         "TechStack": ["React", "Tailwind CSS + Daisy UI"]
     },
     {
