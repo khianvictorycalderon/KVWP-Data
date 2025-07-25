@@ -1,5 +1,12 @@
 [
     {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/coffevup.png",
+        "Title": "Coffee Vup",
+        "Link": "https://khianvictorycalderon.github.io/Coffee-Vup/",
+        "Description": "A simple front-end website landing page for a business",
+        "TechStack": ["React", "Tailwind CSS + Daisy UI"]
+    },
+    {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/apixer.png",
         "Title": "Apixer",
         "Link": "https://apixer.vercel.app/",
