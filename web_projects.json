@@ -4,7 +4,7 @@
         "Title": "Apixer",
         "Link": "https://apixer.vercel.app/",
         "Description": "A simple react vite project that enable the test of an API.",
-        "TechStack": ["React", "Tailwind CSS", "API", "SEO"]
+        "TechStack": ["React", "Tailwind CSS + ShadCN", "API", "SEO"]
     },
     {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/stockims.png",
