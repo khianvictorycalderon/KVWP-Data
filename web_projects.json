@@ -1,5 +1,12 @@
 [
     {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/rolya.png",
+        "Title": "Rolya",
+        "Link": "https://khianvictorycalderon.github.io/Rolya/",
+        "Description": "A simple mock demo real-estate front-end landing page website.",
+        "TechStack": ["React", "Tailwind CSS + Hyper UI"]
+    },
+    {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/coffevup.png",
         "Title": "Coffee Vup",
         "Link": "https://khianvictorycalderon.github.io/Coffee-Vup/",
