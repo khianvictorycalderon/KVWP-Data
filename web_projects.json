@@ -1,5 +1,12 @@
 [
     {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/johndoe.png",
+        "Title": "John Doe Portfolio",
+        "Link": "https://khianvictorycalderon.github.io/John-Doe/",
+        "Description": "A demo music artist portfolio website.",
+        "TechStack": ["React", "Tailwind CSS + Reactbits"]
+    },
+    {
         "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/rolya.png",
         "Title": "Rolya",
         "Link": "https://khianvictorycalderon.github.io/Rolya/",
