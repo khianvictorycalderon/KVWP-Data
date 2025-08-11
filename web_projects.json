@@ -1,0 +1,142 @@
+[
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/johndoe.png",
+        "Title": "John Doe Portfolio",
+        "Link": "https://khianvictorycalderon.github.io/John-Doe/",
+        "Description": "A demo music artist portfolio website.",
+        "TechStack": ["Vite + React", "Tailwind CSS + Reactbits"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/rolya.png",
+        "Title": "Rolya",
+        "Link": "https://khianvictorycalderon.github.io/Rolya/",
+        "Description": "A simple mock demo real-estate front-end landing page website.",
+        "TechStack": ["Vite + React", "Tailwind CSS + Hyper UI"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/coffevup.png",
+        "Title": "Coffee Vup",
+        "Link": "https://khianvictorycalderon.github.io/Coffee-Vup/",
+        "Description": "A simple front-end demo business website landing page.",
+        "TechStack": ["Vite + React", "Tailwind CSS + Daisy UI"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/apixer.png",
+        "Title": "Apixer",
+        "Link": "https://apixer.vercel.app/",
+        "Description": "A simple react vite project that enable the test of an API.",
+        "TechStack": ["Vite + React", "Tailwind CSS & UI", "API", "SEO"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/stockims.png",
+        "Title": "StockIMS",
+        "Link": "https://stockims.netlify.app/",
+        "Description": "An inventory management system full-stack website with KV Bot Integration.",
+        "TechStack": ["Vite + React", "Firebase", "Bootstrap", "Google Analytics", "SEO"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/gengrade.png",
+        "Title": "GenGrade",
+        "Link": "https://gengrade.netlify.app/",
+        "Description": "A student grades management system full-stack website with KV Bot Integration.",
+        "TechStack": ["Vite + React", "Firebase", "Bootstrap", "Google Analytics", "SEO"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/chatterplex.png",
+        "Title": "Chatterplex",
+        "Link": "https://chatterplex.netlify.app/",
+        "Description": "A no sign-in real-time chat full-stack website system.",
+        "TechStack": ["Vite + React", "Firebase", "Bootstrap", "Google Analytics", "SEO"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/articlestory.png",
+        "Title": "Article Story",
+        "Link": "https://articlestory.netlify.app/",
+        "Description": "A web platform to share articles and orignal stories.",
+        "TechStack": ["Vite + React", "Bootstrap", "Google Analytics", "SEO"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/kvbot.png",
+        "Title": "KV Chatbot",
+        "Link": "https://kvbot.netlify.app/",
+        "Description": "A chatbot website trained from scratch with various capabilities.",
+        "TechStack": ["Vite + React", "Firebase", "Bootstrap", "Google Analytics", "SEO"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/unigma.png",
+        "Title": "Unigma",
+        "Link": "https://unigma.netlify.app/",
+        "Description": "(Ultimate Enigma) a text encryption and decryption website based on custom key.",
+        "TechStack": ["Vite + React", "Bootstrap", "Google Analytics", "SEO"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/webplix.png",
+        "Title": "Webplix",
+        "Link": "https://khianvictorycalderon.github.io/Webplix/",
+        "Description": "A demo business website with layouts and interactive bot.",
+        "TechStack": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/myportfolioV3.png",
+        "Title": "My Portfolio Version 3",
+        "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V3/",
+        "Description": "The improved version of my portfolio V2 with slightly more professional looks.",
+        "TechStack": ["Vite + React", "Bootstrap"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/myportfolioV2.png",
+        "Title": "My Portfolio Version 2",
+        "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V2/",
+        "Description": "The remake verion of my portfolio V1 with light and dark theme and small projects.",
+        "TechStack": ["Vite + React", "Bootstrap"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/myportfolioV1.png",
+        "Title": "My Portfolio V1",
+        "Link": "https://khianvictorycalderon.github.io/My-Portfolio-V1/",
+        "Description": "The first version of my portfolio with primitive design.",
+        "TechStack": ["Vite + React", "Bootstrap"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/aspire.png",
+        "Title": "Aspire",
+        "Link": "https://khianvictorycalderon.github.io/Aspire/",
+        "Description": "A business and career recommedation website.",
+        "TechStack": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/itp_todolist.png",
+        "Title": "ToDo List",
+        "Link": "https://khianvictorycalderon.github.io/ITP-WebDev-ToDoList/",
+        "Description": "A simple demo website for managing tasks using local storage.",
+        "TechStack": ["Vite + React", "Bootstrap"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/litesalesanalyzer.png",
+        "Title": "Lite Sales Analyzer",
+        "Link": "https://lite-sales-analyzer.netlify.app/",
+        "Description": "A website that analyzes sales data.",
+        "TechStack": ["Vite + React", "Bootstrap"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/sampleportfolio.png",
+        "Title": "Sample Portfolio Templates",
+        "Link": "https://sampleportfoliostyles.netlify.app/",
+        "Description": "A sample website with 3 preset portfolio with different design.",
+        "TechStack": ["HTML", "CSS", "JavaScript", "JQuery"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/koreanportfolio.png",
+        "Title": "My Korean Portfolio",
+        "Link": "https://khianvictorycalderon.github.io/My-Sample-Korean-Portfolio/",
+        "Description": "My korean version of my portfolio for EPS-TOPIK.",
+        "TechStack": ["HTML", "CSS"]
+    },
+    {
+        "Image": "https://khianvictorycalderon.github.io/KVWP-Data/web_proj/elevencrushtips.png",
+        "Title": "Eleven Crush Tips",
+        "Link": "https://elevencrushtips.github.io/",
+        "Description": "My first ever published website built with HTML and CSS only.",
+        "TechStack": ["HTML", "CSS"]
+    }
+]
